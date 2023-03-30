@@ -134,12 +134,55 @@ section p{
   border-radius: 25px;
   margin-top: 20px;
   margin-bottom: 20px;
-  animation: fadein 3s;
 }
 
 section a{
   color: #EFEFEF;
   text-decoration: underline #05A869;
+}
+
+.card1{
+  fadein: 2s;
+}
+
+.card1{
+  fadein: 2s;
+}
+
+.card2{
+  fadein: 2.5s;
+}
+
+.card3{
+  fadein: 3s;
+}
+
+.card4{
+  fadein: 3.5s;
+}
+
+.card5{
+  fadein: 4s;
+}
+
+.card6{
+  fadein: 4.5s;
+}
+
+.card7{
+  fadein: 5s;
+}
+
+.card8{
+  fadein: 5.5s;
+}
+
+.card9{
+  fadein: 6s;
+}
+
+.card10{
+  fadein: 6.5s;
 }
 
 ::-webkit-scrollbar{
