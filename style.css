@@ -142,50 +142,6 @@ section a{
   text-decoration: underline #05A869;
 }
 
-.card1{
-  animation: fadein 2s;
-}
-
-.card1{
-  animation: fadein 2s;
-}
-
-.card2{
-  animation: fadein 2.5s;
-}
-
-.card3{
-  animation: fadein 3s;
-}
-
-.card4{
-  animation: fadein 3.5s;
-}
-
-.card5{
-  animation: fadein 4s;
-}
-
-.card6{
-  animation: fadein 4.5s;
-}
-
-.card7{
-  animation: fadein 5s;
-}
-
-.card8{
-  animation: fadein 5.5s;
-}
-
-.card9{
-  animation: fadein 6s;
-}
-
-.card10{
-  animation: fadein 6.5s;
-}
-
 ::-webkit-scrollbar{
   width: 4px;
 }
