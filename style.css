@@ -9,14 +9,7 @@ html,body{
   height: 100%;
   overflow-x: hidden;
   font-family: 'Poppins', sans-serif;
-  background-image: url(../img/Wallpaper.png);
-  max-width: 1500px;
-  margin: 0 auto;
-}
-
-.fundo{
-  background-image: url(../img/Wallpaper.png);
-  height: 100%;
+  background-image: url("img/Wallpaper.png");
 }
 
 hr{
