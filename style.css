@@ -134,6 +134,7 @@ section p{
   border-radius: 25px;
   margin-top: 20px;
   margin-bottom: 20px;
+  animation: fadein 2.5s;
 }
 
 section a{
