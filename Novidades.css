@@ -9,14 +9,7 @@ html,body{
   height: 100%;
   overflow-x: hidden;
   font-family: 'Poppins', sans-serif;
-  background-image: url(../img/Wallpaper.png);
-  max-width: 1500px;
-  margin: 0 auto;
-}
-
-.fundo{
-  background-image: url(../img/Wallpaper.png);
-  height: 100%;
+  background-image: url("img/Wallpaper.png");
 }
 
 hr{
@@ -195,6 +188,10 @@ section a{
 .card10{
   animation: fadein 6.5s;
 }
+
+.card11{
+  animation: fadein 7s;
+} 
 
 @keyframes slide{
   0% {transform: translateY(-25px)}
