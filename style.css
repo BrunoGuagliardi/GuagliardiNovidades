@@ -189,6 +189,10 @@ section a{
   animation: fadein 6.5s;
 }
 
+.card11{
+  animation: fadein 7s;
+} 
+
 @keyframes slide{
   0% {transform: translateY(-25px)}
   100% {transform: translateY(0px)}
